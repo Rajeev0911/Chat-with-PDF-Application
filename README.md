@@ -1,3 +1,14 @@
+---
+title: PDF Chat Assistant
+emoji: 📄
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: "1.10.0"
+app_file: app.py
+pinned: false
+---
+
 # PDF Chat Assistant
 
 The PDF Chat Assistant is a web-based tool built using **Streamlit**, **Hugging Face Transformers**, **Sentence Transformers**, and **Faiss**. It allows users to upload PDF documents, extract text, create embeddings, and interact with the documents using natural language questions. The assistant searches relevant chunks of text from the uploaded PDFs and provides answers, highlighting the relevant sections in the original PDF.
