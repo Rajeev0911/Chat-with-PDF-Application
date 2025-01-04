@@ -21,7 +21,7 @@ class PDFProcessor:
         current_size = 0
 
         for word in words:
-            current_size += len(word) + 1  # +1 for space
+            current_size += len(word) + 1
             if current_size > self.chunk_size:
                 chunks.append(" ".join(current_chunk))
                 current_chunk = [word]
