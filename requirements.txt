@@ -1,0 +1,12 @@
+setuptools==65.0.0
+wheel==0.40.0
+tokenizers==0.13.3
+streamlit==1.18.1
+PyPDF2==1.26.0
+sentence-transformers==2.2.2
+langchain==0.0.146
+faiss-cpu==1.7.4
+huggingface-hub==0.16.4
+transformers==4.22.2
+torch==2.2.0
+python-dotenv==0.21.1
