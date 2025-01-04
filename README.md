@@ -50,6 +50,16 @@ To set up the project, follow the instructions below.
    streamlit run main.py
    ```
 
+## Here are the images:
+
+### APP GUI
+![Image 1](images/app_gui.png)
+
+### Original PDF
+![Image 2](images/original_pdf.png)
+
+### Highlighted PDF
+![Image 3](images/highlighted_pdf.png)
 
 
 
